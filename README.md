@@ -1,9 +1,3 @@
-# extra notes, details
-
----
-- Hardest part of this project was understanding where i needed to incorporate the sql commands and what to use from the ejs file with that, it took me a while but after looking at previous examples from the family trackers, I understood what i needed to take from each section of the form.
-
-
 ---
 
 ## What I have created
@@ -15,7 +9,10 @@
 
 ---
 
-## Feedback, general ideas to improve work
+# extra notes, details
+
+---
+- Hardest part of this project was understanding where i needed to incorporate the sql commands and what to use from the ejs file with that, it took me a while but after looking at previous examples from the family trackers, I understood what i needed to take from each section of the form.
 
 ---
 
